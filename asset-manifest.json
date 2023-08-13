@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NewsDekho/static/css/main.31d6cfe0.css",
+    "main.js": "/NewsDekho/static/js/main.f0bf2f58.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NewsDekho/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/NewsDekho/index.html",
+    "main.f0bf2f58.js.map": "/NewsDekho/static/js/main.f0bf2f58.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NewsDekho/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f0bf2f58.js"
+  ]
+}
